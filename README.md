@@ -10,10 +10,7 @@
   This, in conjunction with a variety of Tableau visualizations, provides valuable insight into America’s current substance abuse crisis and potential future actions to mitigate its consequences. 
 
 ### Methodology
-* We used Python and Tableau and machine learning library tools to produce data-driven insights on patterns among patients admitted to drug rehabilitation institutions
-  across the United States. Python libraries including pandas, numpy, and sci-kit learn were leveraged to optimize our dataset for the application of machine learning models to
-  predict the possibility of readmission, given a set of parameters for individual patients. Additionally, the team implemented a dashboard linked with Tableau to include geo-visualizations
-  of national health data to tell the story of the impact of psychoactive drugs on American healthcare institutions and society as a whole.
+* We used Python and Tableau alongside machine learning library tools to produce data-driven insights on patterns among patients admitted to drug rehabilitation institutions across the United States. Python libraries including pandas, numpy, and sci-kit learn were leveraged to optimize our dataset for the application of machine learning models such as random forests to predict the possibility of readmission, given a set of parameters for individual patients. Additionally, the team implemented a fully interactable dashboard using Gradio and HTML/CSS linked with Tableau to include geo visualizations of national health data to tell the story of the impact of psychoactive substances on institutional healthcare decisions and American society as a whole.
   
 *Dataset Resource: https://www.datafiles.samhsa.gov/dataset/treatment-episode-data-set-admissions-2021-teds-2021-ds0001
 
