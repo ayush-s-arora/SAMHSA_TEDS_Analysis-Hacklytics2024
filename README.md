@@ -2,6 +2,7 @@
 
 ## Project Summary 
 ### Inspiration 
+* The inspiration behind our project stems from the urgent need to address the pervasive and escalating issue of substance abuse and relapse across the United States. Substance abuse disorders not only pose significant health risks to individuals but also exert a profound societal and economic burden. Despite concerted efforts, substance abuse continues to pose major public health concerns, affecting individuals of all ages, demographics, and socio-economic backgrounds. Our motivation lies in leveraging data-driven insights to shed light on the complex interplay of factors influencing relapse and to empower healthcare institutions and experts in combating the inexorable spread and continuation of substance abuse across the nation.  
 
 ### Purpose and Function
 * The idea here is that we want to evaluate / analyze the factors that can theoretically contribute to a patient’s potential relapse pertaining to substance abuse.
