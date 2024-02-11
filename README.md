@@ -13,6 +13,7 @@
   across the United States. Python libraries including pandas, numpy, and sci-kit learn were leveraged to optimize our dataset for the application of machine learning models to
   predict the possibility of readmission, given a set of parameters for individual patients. Additionally, the team implemented a dashboard linked with Tableau to include geo-visualizations
   of national health data to tell the story of the impact of psychoactive drugs on American healthcare institutions and society as a whole.
+  ** Dataset Resource: https://www.datafiles.samhsa.gov/dataset/treatment-episode-data-set-admissions-2021-teds-2021-ds0001
 
 ### Challenges Faced
 * The most prominent challenges involved locating and aggregating national health datasets pertaining to rehabilitative treatment that corresponded to our project’s particular use case and stated objective.
