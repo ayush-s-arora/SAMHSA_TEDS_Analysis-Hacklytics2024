@@ -1,4 +1,5 @@
-# Hacklytics 2024 - Data-Driven Drug Rehabilitation Prediction 
+# Hacklytics 2024
+# NoLapse - Data-Driven Drug Rehabilitation Prediction 
 
 ## Project Summary 
 ### Inspiration ✨
