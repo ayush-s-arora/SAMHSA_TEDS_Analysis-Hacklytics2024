@@ -24,6 +24,7 @@
 ### Accomplishments
 
 ### Lessons Learned
+* Throughout the course of this project, the team achieved a greater understanding regarding the importance of normalizing large-scale datasets with respect to our specific use cases, as well as isolating features corresponding to higher levels of predictive significance. Given that this event constituted a first-time hackathon experience for several of our members, we also learned a great deal about the fundamental components of data science projects ranging from discovering real world business problems and integrating large-scale datasets to converging upon a rigorous and unique set of solutions. 
 
 ### Potential Areas for Expansion
 
