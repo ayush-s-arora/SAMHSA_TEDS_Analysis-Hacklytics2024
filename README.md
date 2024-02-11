@@ -5,7 +5,7 @@
 
 ### Purpose and Function
 * The idea here is that we want to evaluate / analyze the factors that can theoretically contribute to a patient’s potential relapse pertaining to substance abuse.
-  By analyzing existing SAMHSA data spanning 2016 - 2021, the team opted to create a predictive model that can accurately identify the most significant correlative factors for relapse.
+  By analyzing existing SAMHSA data spanning 1992 - 2021, the team opted to create a predictive model that can accurately identify the most significant correlative factors for relapse.
   This, in conjunction with a variety of Tableau visualizations, provides valuable insight into America’s current substance abuse crisis and potential future actions to mitigate it. 
 
 ### Methodology
